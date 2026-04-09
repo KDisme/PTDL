@@ -79,5 +79,5 @@ Dự án tập trung phân tích đặc tính hóa học của rượu vang và 
 Dự án cho thấy việc kết hợp EDA, PCA, KMeans và Neural Network giúp hiểu rõ dữ liệu và xây dựng mô hình dự đoán hiệu quả. Mô hình MLP đạt độ chính xác cao và có thể ứng dụng thực tế.
 
 ---
-
-Nếu bạn muốn, mình có thể **viết bản README chuyên nghiệp hơn (chuẩn GitHub xịn, có badge, folder structure, cách chạy code, demo UI)** để bạn đưa thẳng vào CV hoặc portfolio 👍
+Tác giả
+Nguyễn Hoàng Khánh Duy
